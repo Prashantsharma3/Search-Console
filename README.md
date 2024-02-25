@@ -1,3 +1,5 @@
+ Looker Report Link -      https://lookerstudio.google.com/s/s2KYk0O6I4c
+
 #Google Search Console Log Analysis with Looker Studio and MySQL
 This project is a data analysis and visualization tool that uses Google Search Console log data to provide insights into website performance, user behavior, and SEO optimization. The project uses Looker Studio, a cloud-based business intelligence platform, to create interactive dashboards and reports that can be shared with stakeholders. The project also uses MySQL, a relational database management system, to store and query the log data.
 
